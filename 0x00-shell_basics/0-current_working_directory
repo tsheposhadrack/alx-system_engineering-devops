@@ -1,8 +1,2 @@
 #!/bin/bash
-
-# Use the 'pwd' command to print the absolute path of the current working directory
-current_directory=$(pwd)
-
-# Print the result
-echo "$current_directory"
-
+pwd
